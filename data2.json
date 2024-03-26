@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Short Term 12",
+        "year": 2013,
+        "rate": 7.9,
+        "director": "Destin Daniel Cretton"
+    },
+    {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "rate": 8.1,
+        "director": "Martin McDonagh"
+    },
+    {
+        "name": "Her",
+        "year": 2013,
+        "rate": 8.0,
+        "director": "Spike Jonze"
+    },
+    {
+        "name": "Whiplash",
+        "year": 2014,
+        "rate": 8.5,
+        "director": "Damien Chazelle"
+    }
+]
