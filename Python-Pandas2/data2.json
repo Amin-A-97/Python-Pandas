@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Short Term 12",
+        "year": 2013,
+        "rate": 7.9,
+        "director": "Destin Daniel Cretton",
+        "actor": "Brie Larson",
+        "genre" : ["Drama"]
+    },
+    {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "rate": 8.1,
+        "director": "Martin McDonagh",
+        "actor": "Frances McDormand",
+        "genre":["Comedy","Drama","Crime"]
+    },
+    {
+        "name": "Her",
+        "year": 2013,
+        "rate": 8.0,
+        "director": "Spike Jonze",
+        "actor": "Joaquin Phoenix",
+        "genre" : ["Drama","Romance"]
+    },
+    {
+        "name": "Whiplash",
+        "year": 2014,
+        "rate": 8.5,
+        "director": "Damien Chazelle",
+        "actor": "Miles Teller",
+        "genre" : ["Drama","Music"]
+    },
+    {
+        "name": "Road House",
+        "year": 2024,
+        "rate": 6.2,
+        "director": "Doug Liman",
+        "actor": "Jake Gyllenhaal",
+        "genre" : ["Action"]
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "rate": 9.3,
+        "director": "Frank Darabont",
+        "actor": "Morgan Freeman",
+        "genre" : ["Drama"]
+    }
+]
